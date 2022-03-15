@@ -1,0 +1,19 @@
+#addendum {
+    margin-top: 20px;
+}
+
+#str {
+    margin: 20px 0px;
+}
+
+#displayList {
+    width: 50%;
+}
+
+#performance {
+    width: 50%;
+}
+
+#container {
+    display: flex;
+}
